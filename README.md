@@ -1,7 +1,7 @@
 # Hallo, I'm Segun Ajibode 🇩🇪
 
 Electronic & Computer Engineering graduate focused on Embedded AI / TinyML, Edge Automation, and Systems Integration.  
-I build software that runs on resource-constrained hardware.
+I build Embedded AI + Edge Systems that runs on resource-constrained hardware.
 
 📍 Location: Germany, open to relocation + visa sponsorship  
 🗣️ Languages: English: Fluent | German: Learning A1/A2
