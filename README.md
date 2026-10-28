@@ -1,6 +1,9 @@
 # Hello, I'm Segun Ajibode 
 
-Engineer + Designer + Builder. I build at the intersection of Engineering, Tech & Design.
+Engineer + Designer + Builder. 
+
+I build at the intersection of Engineering, Tech & Design.
+
 Building Jiffy @ Radost Technology | Figma + Flutter + Supabase + FastAPI
 
 📍 Location: Nigeria, open to relocation + visa sponsorship  
@@ -11,12 +14,19 @@ Building Jiffy @ Radost Technology | Figma + Flutter + Supabase + FastAPI
 🛠️ Tech Stack:
 
 Languages: Dart, and Python
+
 Frameworks: Flutter, and React
+
 Automation: n8n, Zapier, AI workflows
+
 Product Design: Figma, and CorelDraw
+
 Web & Mobile: Flutter/Dart, React/Next.Js, SupaBase, PostgreSQL, MySQL, FastAPI, Payment API and Wallet Infra, Git, Docker, CI/CD
+
 Embedded: Embedded C/C++, FreeRTOS, Linux, Bare-Metal, STM32, ESP32   
+
 Protocols: SPI, I2C, UART, CAN, MQTT, BLE  
+
 AI & Data: Python, TensorFlow Lite Micro, Edge Impulse, PyTorch, Quantization 
 
 
