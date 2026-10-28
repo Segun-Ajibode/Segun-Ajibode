@@ -1,34 +1,48 @@
-# Hallo, I'm Segun Ajibode 🇩🇪
+# Hello, I'm Segun Ajibode 
 
-Electronic & Computer Engineering graduate focused on Embedded AI / TinyML, Edge Automation, and Systems Integration.  
-I build Embedded AI + Edge Systems that runs on resource-constrained hardware.
+Engineer + Designer + Builder. I build at the intersection of Engineering, Tech & Design.
+Building Jiffy @ Radost Technology | Figma + Flutter + Supabase + FastAPI
 
-📍 Location: Germany, open to relocation + visa sponsorship  
+📍 Location: Nigeria, open to relocation + visa sponsorship  
 🗣️ Languages: English: Fluent | German: Learning A1/A2
 
 ---
 
 🛠️ Tech Stack:
-Embedded: Embedded C/C++, FreeRTOS, Linux, Bare-Metal, STM32, ESP32  
-AI & Data: Python, TensorFlow Lite Micro, Edge Impulse, PyTorch, Quantization  
+
+Languages: Dart, and Python
+Frameworks: Flutter, and React
+Automation: n8n, Zapier, AI workflows
+Product Design: Figma, and CorelDraw
+Web & Mobile: Flutter/Dart, React/Next.Js, SupaBase, PostgreSQL, MySQL, FastAPI, Payment API and Wallet Infra, Git, Docker, CI/CD
+Embedded: Embedded C/C++, FreeRTOS, Linux, Bare-Metal, STM32, ESP32   
 Protocols: SPI, I2C, UART, CAN, MQTT, BLE  
-Software: Mobile: Flutter/React Native/Native, Git, Docker, CI/CD
+AI & Data: Python, TensorFlow Lite Micro, Edge Impulse, PyTorch, Quantization 
+
 
 ---
 
 🚀 Featured Projects
 
-1. EdgeAI Predictive Maintenance | TinyML / Embedded C++  
+1. Business AI Automation
+Re-Built the website (rated top among Africa's .coop domains), and automated CRM (web + forms + emails + sheets)
+Result: Reduced manual data entry by 80%, improved response time for the registry department
+- live at oduacooperativeconglomerate.coop
+
+2. Jiffy - a Mobility Fintech Platform | Flutter, Supabase, Flutterwave, Escrow
+Leading product design & development of Jiffy - a Mobility Fintech Platform using Flutter, Supabase, AWS EC2, and Flutterwave API.
+Automating payment webhooks, and verification, API endpoints, Auth, reduced payment reconciliation time by 70%
+Expected Outcome: Reduced Payment reconciliation time by 70%
+
+3. EdgeAI Predictive Maintenance | TinyML / Embedded C++  
 Local anomaly detection on microcontrollers.  
 Trained 3-layer NN → quantized int8 → deployed with TensorFlow Lite Micro.  
 Result: <32KB flash, <15ms inference latency.
-(https://github.com)
 
-3. IoT Mobile App Link | Systems Integration  
+4. IoT Mobile App Link | Systems Integration  
 Mobile app for real-time telemetry with edge systems.  
 Connects via BLE + MQTT, streams sensor metrics.  
 Result: Thread-safe circular buffer prevents data loss on disconnect.  
-(https://github.com)
 
 ---
 
